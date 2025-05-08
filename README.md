@@ -1,73 +1,59 @@
-👋 Welcome to My GitHub
+# 👋 Hi, I'm Junho Kim
 
-Hi, I’m Junho Kim — a system-level embedded engineer passionate about designing end-to-end hardware and firmware systems.
-I build robust embedded platforms that tightly integrate real-time motor control, wireless communication, and Linux-based UI applications.
+**Embedded Systems Engineer with interest in AI & Edge Computing**  
+Seoul, South Korea | 💻 C / C++ / Embedded Linux / BLE / CAN / Qt / AI
 
-💡 About Me
+---
 
-🔧 Embedded System Engineer with 8+ years of experience
+## 🛠️ Tech Stack  
+- **Embedded Systems**: STM32, ESP32, nRF52, FreeRTOS, Zephyr, Buildroot  
+- **Connectivity**: BLE, LoRa, UART, SPI, I2C, Ethernet, RS485  
+- **Linux & UI**: Qt (QML & Widgets), ALSA, GStreamer, FFmpeg, Buildroot, Yocto  
+- **AI & Vision**: PyTorch, YOLO, Vision Transformer, Jetson Xavier AGX / Orin  
+- **Control**: FOC, BLDC, stepper motor, PID, sensor fusion  
+- **Tools**: Git, ubuntu , can analyzer ,VScode , Oscilloscope, OrCAD, STM32CubeIDE, SEGGER
 
-🧠 Skilled in MCU/MPU board design, firmware (RTOS/Baremetal), and system architecture
+---
 
-⚙️ Real-world experience with stepper, brushed, BLDC motor control, various sensors
+## 🚀 Projects
 
-📡 Familiar with BLE, Wi-Fi, CAN, and low-level Ethernet protocols
+- **🎵 Qt Music & Video Player**  
+  Built from scratch using Qt for Linux desktop. Supports playlist, ID3 tags, and FFmpeg video decoding.
 
-🖥️ Proficient with Qt GUI development on embedded Linux
+- **🐶 BLE Smart Pet Feeder (ESP32)**  
+  IoT pet feeder with weight sensor, motor driver, BLE control, and Android app for scheduling.
 
-🧾 Experience in STM32, nRF52, Zephyr, FreeRTOS, and Yocto/Buildroot
+- **📡 Custom RF Communication**  
+  Built a low-level radio protocol without LoRa or BLE stack using nRF24L01+ and STM32 SPI.
 
-🛠️ Can design custom boards using STM32MP1/MP2 and work with DRAM interfaces
+- **📟 CAN Gateway System**  
+  Embedded Linux gateway that logs and forwards CAN data over Ethernet and MQTT.
 
-🛠️ What I Can Do
+---
 
-🔲 Embedded Hardware Design
+## 💼 Work Highlights
 
-Schematic design (MCU/MPU, DRAM, power tree, PMIC, sensors)
+- Wi-Fi fire detector, LoRa CO sensor, ADPD188 smoke sensor system (HW & FW)  
+- Diagnostic lab equipment firmware (BLE, CDC, motor control, RTOS)  
+- Non-invasive medical device BSP (SAMA5D3, Qt, U-Boot, Buildroot)  
+- Automotive failsafe software (ISO 26262) – Mando EPS System  
+- Smart farm sensors and RF communication – KETI R&D
+- Optical disk Drive Servo firmware - TSST korea
+---
 
-3-phase motor driver circuits with gate driver flexibility
+## 🎓 Education & Certification
 
-BLE/Wi-Fi RF layout and 50Ω impedance matching
+- M.S. Mechanical IT Convergence – Hanyang Cyber Graduate School (in progress)  
+- B.S. Konkuk University in Electronic Engineering  
+- 🇰🇷 Certified Robot Software Engineer (로봇소프트웨어개발기사)
 
-📟 Firmware Development
+---
 
-Real-time control (6-step BLDC, FOC with STM32 MCSDK)
+## 📫 Contact  
+- 📧 Email: junho01kim@naver.com, junho01.kim@gmail.com  
+- 💼 Resume: [Link to your resume PDF or Word](#)  
+- 🐙 GitHub: (https://github.com/Junhokim0103/)
 
-Distance-based stepper motor control with motion profiling
 
-BLE communication stacks, UART/SPI/I2C peripheral drivers
-
-🧩 System Integration
-
-Qt-based HMI for embedded Linux devices
-
-Device tree, kernel config, and driver debugging (STM32MPx)
-
-Protocol bridge (e.g., CAN ↔ Ethernet, BLE ↔ UART)
-
-📘 Software Engineering
-
-Clean C/C++ architecture with HAL/LL API
-
-Python automation tools for simulation/log analysis
-
-Git, CMake, VSCode, SEGGER Embedded Studio
-
-🌱 What I'm Exploring
-
-Industrial wireless protocols (real-time EtherCAT over Wi-Fi)
-
-AI-integrated embedded systems (edge inference + robotics)
-
-ROS2 and Isaac ROS for intelligent control systems
-
-Porting Linux BSP on STM32MP2 and performance tuning
-
-📫 Contact
-
-Want to collaborate or work together?
-Feel free to reach me at junho01kim@naver.com junho01.kim@gmail.com
-
-Thanks for visiting my GitHub! I'm always open to solving real-world problems with embedded intelligence and systems thinking. 🚀
 
 
