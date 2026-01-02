@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Junho Kim
 
-**Embedded Systems Engineer with interest in AI & Edge Computing**  
+**Embedded Systems Engineer with interest in AI & Edge Computing, Robotics**  
 Seoul, South Korea | 💻 C / C++ / Embedded Linux / BLE / CAN / Qt / AI
 
 ---
@@ -49,7 +49,7 @@ Seoul, South Korea | 💻 C / C++ / Embedded Linux / BLE / CAN / Qt / AI
 - M.S. Mechanical IT Convergence – Hanyang Cyber Graduate School (in progress)  
 - B.S. Konkuk University in Electronic Engineering  
 - 🇰🇷 Certified Robot Software Engineer (로봇소프트웨어개발기사)
-
+- 🇰🇷 Certified Embedded Engineer (임베디드기사)
 ---
 
 ## 📫 Contact  
